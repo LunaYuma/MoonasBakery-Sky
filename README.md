@@ -73,7 +73,7 @@ That's it!
 - I only add features I've tested myself and know are safe when used responsibly.
 - **Windows only** for now. Linux/Proton isn't supported (yet!).
 - When Sky updates, the mod stops working until I put out a new build. Watch this repo to get notified.
-
+- One small thing: on launch, the loader sends an anonymous ping with a random install ID so I can see how many people use the mod. No name, no account, no software info, no IP logged... just a number for me to look at.
 ---
 
 ## Found a bug?
