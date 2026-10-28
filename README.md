@@ -85,4 +85,5 @@ Open an [Issue](../../issues) and tell me:
 
 ---
 
-Made with way too much love and not enough sleep by **Luna**.
+Oh, and feel free to join my Discord server!! Although, it's still new-
+https://discord.gg/xpdDNs3nga
