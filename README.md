@@ -2,6 +2,12 @@
 
 **A free mod menu for Sky: Children of the Light on PC, baked fresh by yours truly.**
 
+> [!WARNING]
+> **Sky just got a hotfix, and it broke the mod.**
+> Please don't use it until the new build is out! I'm already fixing it,
+> and the update will come with some new features too ^^
+> Watch this repo to get notified when it drops.
+
 > Works with Sky **0.35.1.423272** (Steam, Windows).
 > If Sky has updated since then, I will know! So you only have to wait for a new release!
 
