@@ -1,14 +1,12 @@
+<p align="center">
+  <img src="MoonasBakery-croissant.png" width="160" alt="Moona's Bakery croissant">
+</p>
+
 # Moona's Bakery
 
 **A free mod menu for Sky: Children of the Light on PC, baked fresh by yours truly.**
 
-> [!WARNING]
-> **Sky just got a hotfix, and it broke the mod.**
-> Please don't use it until the new build is out! I'm already fixing it,
-> and the update will come with some new features too ^^
-> Watch this repo to get notified when it drops.
-
-> Works with Sky **0.35.1.423272** (Steam, Windows).
+> Works with Sky **0.35.2.426499** (Steam, Windows).
 > If Sky has updated since then, I will know! So you only have to wait for a new release!
 
 ---
@@ -54,6 +52,7 @@
 **Settings**
 - Remembers your toggles between sessions
 - Change the menu key, menu opacity and menu size
+- Dark Mode
 - Reset buttons for when you mess something up ^^
 
 ---
@@ -79,7 +78,7 @@ That's it!
 - I only add features I've tested myself and know are safe when used responsibly.
 - **Windows only** for now. Linux/Proton isn't supported (yet!).
 - When Sky updates, the mod stops working until I put out a new build. Watch this repo to get notified.
-- One small thing: on launch, the loader sends an anonymous ping with a random install ID so I can see how many people use the mod. No name, no account, no software info, no IP logged... just a number for me to look at.
+- One small thing: on launch, the loader sends an anonymous ping with a random install ID so I can see how many people use the mod. No name, no account, just the mod version, no IP logged... just a number for me to look at.
 ---
 
 ## Found a bug?
